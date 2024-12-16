@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","47315","Test Case 3: PPMID Test","","Fri Dec 13 18:14:17 IST 2024","passed","Fri Dec 13 18:15:05 IST 2024","","Qvertix Smart meter demo","",""
+"","77589","Test Case 1: Energy Meter Test","","Fri Dec 13 18:12:17 IST 2024","passed","Fri Dec 13 18:13:35 IST 2024","","Qvertix Smart meter demo","",""
+"","42180","Test Case 2: Gas Meter Test","","Fri Dec 13 18:13:35 IST 2024","passed","Fri Dec 13 18:14:17 IST 2024","","Qvertix Smart meter demo","",""
