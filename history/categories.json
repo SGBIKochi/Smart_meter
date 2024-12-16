@@ -1,0 +1,22 @@
+[
+    {
+      "name": "PASS",
+      "messageRegex": ".*passed.*",
+      "matchedStatuses": ["passed"]
+    },
+    {
+      "name": "FAIL",
+      "messageRegex": ".*Current channel is not under favorite list.*",
+      "matchedStatuses": ["failed"]
+    },
+    {
+      "name": "Test Condition: SKIP",
+      "messageRegex": ".*Channel is under favorite list. Skipping the rest of the test.*",
+      "matchedStatuses": ["skipped"]
+    },
+    {
+      "name": "Infrastructure problems",
+      "messageRegex": ".*RuntimeException.*",
+      "matchedStatuses": ["broken"]
+    }
+]

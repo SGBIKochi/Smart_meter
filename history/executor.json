@@ -1,0 +1,9 @@
+{
+    "reportName": "Sample_allure_test",
+    "buildOrder": 1234,
+    "reportUrl": "",
+    "name": "SGBI",
+    "type": "Sastra_robotics",
+    "buildName": "Admin",
+    "buildUrl": "https://sgbi.us/"
+}
